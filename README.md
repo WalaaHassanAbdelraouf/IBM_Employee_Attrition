@@ -28,10 +28,10 @@ The dataset used in this analysis is the [IBM HR Analytics Employee Attrition da
 ## Analysis Workflow
 
 ### 1. Data Overview 
-We began by loading the dataset and checking for missing values, as well as getting an initial sense of the dataset's structure and key Feature Understanding, Summary statistics and basic visualizations (like histograms) are used to understand the spread and distribution of features, including age, income, and years at the company.
+We began by loading the dataset and checking for missing values, as well as getting an initial sense of the dataset's structure and key Feature Understanding, summary statistics and basic visualizations (like histograms) are used to understand the spread and distribution of features, including age, income, and years at the company.
 
 ### 2. Exploratory Data Analysis (EDA)
-We explore the relationships between various features and the target variable 'Attrition' using visualizations like bar plots, heatmaps, and pair plots.
+We explored the relationships between various features and the target variable 'Attrition' using visualizations like bar plots, heatmaps, and pair plots.
 - Key Insights: Identified features that have strong associations with attrition, such as job satisfaction, work-life balance, overtime, income, and commute distance.
 
 ### 3. Data Preprocessing
